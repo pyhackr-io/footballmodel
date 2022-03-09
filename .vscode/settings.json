@@ -1,0 +1,7 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "python.pythonPath": "/Users/pankajpatel/.pyenv/versions/3.8.6/envs/sportsbook/bin/python",
+  "cSpell.words": [
+    "tqdm"
+  ]
+}
